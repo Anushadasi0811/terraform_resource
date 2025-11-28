@@ -4,3 +4,4 @@
 *.tfstate.*
 .terraform.lock.hcl
 anusha-key
+anusha-key.pub
